@@ -1,0 +1,526 @@
+{
+    "language": "English",
+    "code": "eng",
+    "numbers": {
+
+        "destiny_number": {
+            "name": "Destiny Number",
+            "1": {
+                "key_word": "The Leader",
+                "description": "People with destiny number 1 tend to be very decided and have the abilty to lead other people into doing good things."
+            },
+            "2": {
+                "key_word": "The Cooperative",
+                "description": "People with destiny number 2 tend to care about other people, even more than abput themselves sometimes and are happy for other peopele."
+            },
+            "3": {
+                "key_word": "The Animator",
+                "description": "People with destiny number 3 tend to bring happiness to people around them because they are very energetic and enthusiastic."
+            },
+            "4": {
+                "key_word": "The Builder",
+                "description": "People with destiny number 4 are very practical and know how to plan their future, being vey well organized."
+            },
+            "5": {
+                "key_word": "The Communicator",
+                "description": "People with destiny number 5 tend to be in search of liberty and are very hard to manipulate. They love new things and evolution."
+            },
+            "6": {
+                "key_word": "The Teacher",
+                "description": "People with destiny number 6 need a balanced life and work very well with partners. They like teaching people new things, this making them perfect for a team."
+            },
+            "7": {
+                "key_word": "The Individualistic",
+                "description": "People with destiny number 7 like loneliness and reach their max potential when they are alone.."
+            },
+            "8": {
+                "key_word": "The Ambitious",
+                "description": "People with destiny number 8 are stubborn and can become ruthless if it is needed to reach their goal. They will never give up."
+            },
+            "9": {
+                "key_word": "The Philanthropist",
+                "description": "People with destiny number 9 tend to show their love and compassion. They are ruled by the goal to make everyone's life better."
+            }
+        },
+        "in_numerogram": {
+            "missing": "Missing",
+            "name": "Birthdate Numerogram",
+            "1": {
+                "1": "You express yourself very easy, both written and spoken.",
+                "2": "You know how to talk in most of the situation. You can keep conversations very balanced.",
+                "3": "You are frustrated because you don't have the opportunities to show your talking skills.",
+                "missing": "You are not very self confident and cannot express very well in public."
+            },
+            "2": {
+                "1": "You understand people very well.",
+                "2": "You have a very good intuition, but very often you don't trust it and you don't pay attention to it.",
+                "3": "You are very emotive and need to tell people about their feelings. You might have music skills as well.",
+                "missing": "You need to learn to appreciate and respect other people."
+            },
+            "3": {
+                "1": "You have a very good imagination and you are very creative.",
+                "2": "Your imagination is very strong and you might not know what to do in real life because of this.",
+                "3": "It is very hard for you to think about the world without using your imagination.",
+                "missing": "You are missing creativity and imagination."
+            },
+            "4": {
+                "1": "You have a practical mind and you are very well organized.",
+                "2": "You need to be very organized and you work hard to be like this.",
+                "3": "You You won't rest until you do everything perfect and this might not be good for you.",
+                "missing": "You don't like to do everyday repeating things, instead you want to do exciting and new things. It is very likely that you won't finnish what you start."
+            },
+            "5": {
+                "1": "You are very decided and won't give on anything.",
+                "2": "Independence is very important for you and might cause family disputes. But this will make you even more decided.",
+                "3": "You love risking your life for cool sensation and very often get away with it. You know how to live the moment.",
+                "missing": "You are not an independent person. You don't know how to use the opportunities that show up."
+            },
+            "6": {
+                "1": "You will probably have a job linked with art that you love. You are very creative and know how to use it.",
+                "2": "You tend to worry for insignificant things and you have a good memory.",
+                "3": "You have a very relaxed attitude and your creativity might help you. But be careful, you attention can easily be withdrawn by everyday things.",
+                "missing": "Your need to train your creativity in order to be able to love art."
+            },
+            "7": {
+                "1": "You don't like when other people teach you how to do things or give you advices.",
+                "2": "You are very interested in understanding the meaning of life. You have a very philosophical thinking",
+                "3": "Knowing a lot of things about yourself, you might prevent yourself from doing something. You often sacrifice things for other things.",
+                "missing": "You are very skeptical about things you hear and you don't trust yourself."
+            },
+            "8": {
+                "1": "You are very good at appreciating other people.",
+                "2": "You know how to appreciate everyone, but often you intimidate people.",
+                "3": "You are very balanced. This is very good for business men.",
+                "missing": "You tend to be lazy, but you should organize yourself better."
+            },
+            "9": {
+                "1": "You are and idealistic person and have a very deep understanding of the relationship between people and the Universe.",
+                "2": "You think about lots of things (such as the relationship between us and the Universe) and have a very deep understanding of them.",
+                "3": "You use your mind a lot and you want to revolutionize things.",
+                "missing": "You live your life in a very simple way."
+            }
+        },
+        "lines": {
+            "name": "Lines",
+            "123": {
+                "missing": "Error-line can't miss.",
+                "has": "1-2-3: Planning line."
+            },
+            "456": {
+                "missing": "Missing 4-5-6: Frustration Line.",
+                "has": "4-5-6: Line of will."
+            },
+            "789": {
+                "missing": "Missing 7-8-9: Line of inertia (meditation).",
+                "has": "7-8-9: Line of action."
+            },
+            "369": {
+                "missing": "Missing 3-6-9: Eccentricity line.",
+                "has": "3-6-9: Line of the intellect."
+            },
+            "258": {
+                "missing": "Missing 2-5-8: Sensibility Line.",
+                "has": "2-5-8: Line of sentiments."
+            },
+            "147": {
+                "missing": "Missing 1-4-7: Line of delusion.",
+                "has": "1-4-7: Physical line."
+            },
+            "159": {
+                "missing": "Missing 1-5-9: Line of resignation.",
+                "has": "1-5-9: Line of determination."
+            },
+            "357": {
+                "missing": "Missing: 3-5-7: Skepticism line.",
+                "has": "3-5-7: Line of compassion"
+            }
+        },
+        "b_day_number": {
+            "name": "Birthday number",
+            "1": "When by yourself you are self-confident, ready to be a leader.",
+            "2": "When by yourself you are very friendly and cooperative.",
+            "3": "When by yourself you are creative.",
+            "4": "When by yourself you are hard-working and disciplined.",
+            "5": "When by yourself you are talkative and in search of liberty.",
+            "6": "When by yourself you are responsible and you like giving advices.",
+            "7": "When by yourself you are analytical and intuitive.",
+            "8": "When by yourself you are ambitious and independent.",
+            "9": "When by yourself you are compassionate amd dramatic."
+        },
+        "objective_number": {
+            "name": "Objective number",
+            "1": "Your goal in life is to take control.",
+            "2": "Your goal in life is to be friends with everyone.",
+            "3": "Your goal in life is to how your creativity.",
+            "4": "Your goal in life is to achieve practical things.",
+            "5": "Your goal in life is to have freedom.",
+            "6": "Your goal in life is to accept responsibilities.",
+            "7": "Your goal in life is to know yourself.",
+            "8": "Your goal in life is to have material success.",
+            "9": "Your goal in life is to show love."
+        },
+        "name_numbers": {
+            "vowels_number": {
+                "name": "Vowels number",
+                "1": "You like to work by yourself and, when in a group, you like being the leader.",
+                "2": "You easily work with other people and you are very cooperative.",
+                "3": "You like happiness and you are in search for an engaging atmosphere.",
+                "4": "You like being well organized and you are watching unconventional things with distrust.",
+                "5": "You love freedom and are in search of a restriction-free life style.",
+                "6": "You accept all of your responsibilities and you easily know what is good and what is not.",
+                "7": "You need loneliness and meditation to take decisions and you don't like being told what to do.",
+                "8": "You are very ambitious and always want to reach your goals.",
+                "9": "You are very idealistic and like seeing your ideals coming to life."
+            },
+            "consonants_number": {
+                "name": "Consonants Number",
+                "1": "The first impression formed in the eyes of foreigners is that you are a leader.",
+                "2": "The first impression formed in the eyes of foreigners is that you are friendly person.",
+                "3": "The first impression formed in the eyes of foreigners is that you are an intelligent person.",
+                "4": "The first impression formed in the eyes of foreigners is that you are well organized.",
+                "5": "The first impression formed in the eyes of foreigners is that you have many talents and you can easily adapt yourself.",
+                "6": "The first impression formed in the eyes of foreigners is that you are very creative, but responsible.",
+                "7": "The first impression formed in the eyes of foreigners is that you are an independent person.",
+                "8": "The first impression formed in the eyes of foreigners is that you are strong and self-confident.",
+                "9": "The first impression formed in the eyes of foreigners is that you are a dramatic and romantic person."
+
+            },
+            "full_name_number": {
+                "name": "Full Name Number",
+                "1": "The relationships between you and other people are marked by determination and self-confidence.",
+                "2": "The relationships between you and other people are marked by friendliness and cooperation.",
+                "3": "The relationships between you and other people are marked by happiness and energy.",
+                "4": "The relationships between you and other people are marked by a miss of sentimentalism and by balance.",
+                "5": "The relationships between you and other people are marked by adaptation and change.",
+                "6": "The relationships between you and other people are marked by harmony and sentiments.",
+                "7": "The relationships between you and other people are marked by individualism and the wish to make whatever they want.",
+                "8": "The relationships between you and other people are influenced by establishing goals.",
+                "9": "The relationships between you and other people are marked by tolerance, understanding and mercy."
+            },
+            "tension_number_b_day_full_n": {
+                "desc": "The tension number between your full name number (the way you behave with others) and your birthday number (the way you behave when you are alone) is",
+                "0": "You are perfectly balanced and you have nothing to hide.",
+                "1": "Sometimes you are missing courage and you might not always relly on other people.",
+                "2": "Mostly the tensions are generated by the fact that you can't collaborate with other people.",
+                "3": "Usually the tension comes from your too serious attitude.",
+                "4": "To solve the tensions you might need to plan your future and stop refusing to think more organized.",
+                "5": "Tensions come from your refusal to accept change and adapt yourself.",
+                "6": "The problem is that you think to much about your family life and you that you won't accept responsibilities.",
+                "7": "Tensions appear when you are alone because you don't like working like that.",
+                "8": "Tensions appear because of carrier problems or problems with becoming independent."
+            }
+        },
+        "energetic_number": {
+            "name": "Energetic Number",
+            "1": "The achievements related to leadership will be the easiest to achieve.",
+            "2": "The achievements related to friendship will be the easiest to achieve.",
+            "3": "The achievements related to happiness and creation will be the easiest to achieve.",
+            "4": "The achievements related to constant progress will be the easiest to achieve.",
+            "5": "The achievements related to popularity will be the easiest to achieve.",
+            "6": "The achievements related to teaching or art will be the easiest to achieve.",
+            "7": "The achievements related to philosophy and spirituality will be the easiest to achieve.",
+            "8": "The achievements related to managing and success will be the easiest to achieve.",
+            "9": "The achievements related to drama and independence will be the easiest to achieve."
+        },
+        "first_letter": {
+            "desc": "The first letter of your name describes what is your first impulse in a dialogue. The letter"
+        },
+        "first_vowel": {
+            "desc": "The first vowel of your name describes how you emotionally react in a dialogue. The letter"
+        },
+        "missing_name_numbers": {
+            "desc": "Numbers missing from your name show qualities you miss.",
+            "missing": "Missing",
+            "1": "You are missing originality",
+            "2": "You are missing sensibility",
+            "3": "You are missing creativity",
+            "4": "You are missing patience",
+            "5": "You are missing the capacity to adapt to all kinds of situations",
+            "6": "You are missing responsibility",
+            "7": "You are missing self-analyzing",
+            "8": "You are missing financial qualities",
+            "9": "You are missing generosity"
+        },
+        "name_diagram": {
+            "name": "Name Diagram: ",
+            "combined": "Combined Diagram:",
+            "missing_from_combined": "The number of numbers missing from your combined diagram shows how balanced you are (the lower the number is, the more balanced you are. You are missing X numbers.",
+            "0": "perfectly balanced",
+            "1": "almost perfect",
+            "2": "so and so",
+            "3": "kinda balanced",
+            "4": "not very balanced",
+            "5": "not balanced",
+            "6": "very bad balancing",
+            "7": "worst balancing",
+            "8": "how do you even....",
+            "9": "you are a damn hacker"
+        },
+        "temperament": {
+            "mental": "Mental",
+            "physical": "Physical",
+            "emotional": "Emotional",
+            "intuitive": "Intuitive",
+            "1": {
+                "m": "You have very much ideas and and think a lot.",
+                "p": "You have leader abilities.",
+                "e": "You prefer being better in a relationship with someone.",
+                "i": "You have a lot of original ideas."
+            },
+            "2": {
+                "m": "You love learning new things.",
+                "p": "You can easily work in a team.",
+                "e": "You need someone else to be with you.",
+                "i": "You use your intuition vey easily."
+            },
+            "3": {
+                "m": "You use your creativity to solve every problem.",
+                "p": "It is very likely for you to be a popular person.",
+                "e": "You want to express your wishes and aspirations..",
+                "i": "You use your intuition in a creative way."
+            },
+            "4": {
+                "m": "You address problems in a very logical way.",
+                "p": "You are a hard-working person and you don't like doing nothing.",
+                "e": "When solving problems you often address them in an emotional way.",
+                "i": "You don't trust your intuition and feel better if you have a practical solution."
+            },
+            "5": {
+                "m": "You have a very quick mind.",
+                "p": "you work very well in collaboration with others.",
+                "e": "You don't like being tied to someone else, instead being free is your wish.",
+                "i": "You have very good instincts, but you often don't trust them."
+            },
+            "6": {
+                "m": "You understand other people's problems.",
+                "p": "You balance your family life and your professional life very well.",
+                "e": "You have artistic concerns and you would do everything to have a stable family life.",
+                "i": "You should listen to your instincts and to other's opinion more"
+            },
+            "7": {
+                "m": "You are very good at analyzing situations and you take better decisions when being alone.",
+                "p": "You are very energetic, but you like working alone.",
+                "e": "You can emotionally attach to someone a lot, but you don't want others to know it.",
+                "i": "You have very good instincts but people often don't take them into consideration."
+            },
+            "8": {
+                "m": "You are very good at business.",
+                "p": "You are very good at sports.",
+                "e": "You put your career on the first place and think a lot about it.",
+                "i": "You are capable of using your intuition to balance your spiritual and your material side."
+            },
+            "9": {
+                "m": "You don't like to take car eof minor details.",
+                "p": "You like to express yourself in a dramatic way.",
+                "e": "You have very deep romantic and dramatic feelings.",
+                "i": "You might miss your practical sense"
+            },
+            "0": {
+                "m": "You don't like taking decisions based only on facts.",
+                "p": "You are missing sport aptitudes and physical condition.",
+                "e": "You don't like talking about your feelings and you try to ignore them.",
+                "i": "You hate basing on your instincts."
+            }
+        },
+        "cycles": {
+            "first_cycle": {
+                "desc": "The first cycle of your life starts when you are born and ends at age"
+            },
+            "second_cycle": {
+                "desc": "The second cycle of your life starts when the first one ends and last 27 years - it ends at age"
+            },
+            "third_cycle": {
+                "desc": "The third and the list cycle of your life starts when the second one finishes and ends when you die."
+            },
+            "1": "During this cycle the cycle number is 1 - this period will be defined by independence.",
+            "2": "During this cycle the cycle number is 2 - during this period opportunities to join teams, clubs or groups will appear.",
+            "3": "During this cycle the cycle number is 3 - this will be a calm period favorable to creation.",
+            "4": "During this cycle the cycle number is 4 - it is very important to solve practical problems during this period.",
+            "5": "During this cycle the cycle number is 5 - during this period unexpected problems can come up.",
+            "6": "During this cycle the cycle number is 6 - during this period you have to focus on your family life.",
+            "7": "During this cycle the cycle number is 7 - this period will make you realize a lot about yourself.",
+            "8": "During this cycle the cycle number is 8 - this cycle is very favorable from a financial point of view.",
+            "9": "During this cycle the cycle number is 9 - you will train your art skills during this cycle."
+        }
+    },
+    "letters":{
+        "alphabet": "abcdefghijklmnopqrstuvwxyz",
+        "vowels": "aeiouy",
+        "consonants": "bcdfghjklmnpqrstvxz",
+        "numbers": {
+            "a": 1,
+            "b": 2,
+            "c": 3,
+            "d": 4,
+            "e": 5,
+            "f": 6,
+            "g": 7,
+            "h": 8,
+            "i": 9,
+            "j": 1,
+            "k": 2,
+            "l": 3,
+            "m": 4,
+            "n": 5,
+            "o": 6,
+            "p": 7,
+            "q": 8,
+            "r": 9,
+            "s": 1,
+            "t": 2,
+            "u": 3,
+            "v": 4,
+            "w": 5,
+            "x": 6,
+            "y": 7,
+            "z": 8
+        },
+        "desc":{
+            "a": {
+                "desc": "A Mental Letter",
+                "first_letter": "is a letter that encourages leader qualities.",
+                "first_vowel": "means that you are decided in emotional situations.",
+                "temperament": "sm"
+            },
+            "b": {
+                "desc": "An Emotional Letter",
+                "first_letter": "is a letter that encourages cooperation",
+                "temperament": "ce"
+            },
+            "c": {
+                 "desc": "An Intuition Letter",
+                "first_letter": "is a letter that encourages creativity",
+                "temperament": "fi"
+            },
+            "d": {
+                 "desc": "A Physical Letter",
+                "first_letter": "is a letter that encourages practical spirit",
+                "temperament": "fp"
+            },
+            "e": {
+                 "desc": "A Physical Letter",
+                "first_letter": "is a letter that encourages communication",
+                "first_vowel": "means that you have very fast emotional reactions.",
+                "temperament": "sp"
+            },
+            "f": {
+                "desc": "An Intuition Letter",
+                "first_letter": "is a letter that encourages fun and friendship",
+                "temperament": "ci"
+            },
+            "g": {
+                "desc": "A Mental Letter",
+                "first_letter": "is a letter that encourages self-confidence",
+                "temperament": "fm"
+            },
+            "h": {
+                "desc": "A Mental Letter",
+                "first_letter": "is a letter that encourages financial aptitudes",
+                "temperament": "cm"
+            },
+            "i": {
+                "desc": "An Emotional Letter",
+                "first_letter": "is a letter that encourages idealism",
+                "first_vowel": "means that you react in a romantic, idealistic and unpractical way",
+                "temperament": "se"
+            },
+            "j": {
+                "desc": "A Mental Letter",
+                "first_letter": "is a letter that strengthens the power of judgement",
+                "temperament": "cm"
+            },
+            "k": {
+                "desc": "An Intuition Letter",
+                "first_letter": "is a letter that encourages inspiration",
+                "temperament": "si"
+            },
+            "l": {
+                "desc": "A Mental Letter",
+                "first_letter": "is a letter that encourages criticism and skepticism",
+                "temperament": "fm"
+            },
+            "m": {
+                "desc": "A Physical Letter",
+                "first_letter": "is a letter that encourages integrity",
+                "temperament": "fp"
+            },
+            "n": {
+                "desc": "A Mental Letter",
+                "first_letter": "is a letter that encourages popularity",
+                "temperament": "cm"
+            },
+            "o": {
+                "desc": "An Emotional Letter",
+                "first_letter": "is a letter that encourages knowledge",
+                "first_vowel": "means that you are exhausted on your emotional side",
+                "temperament": "se"
+            },
+            "p": {
+                "desc": "A Mental Letter",
+                "first_letter": "is a letter that encourages self-knowledge",
+                "temperament": "cm"
+            },
+            "q": {
+                "desc": "An Intuition Letter",
+                "first_letter": "is a letter that encourages originality",
+                "temperament": "ci"
+            },
+            "r": {
+                 "desc": "An Emotional Letter",
+                "first_letter": "is a letter that encourages firmness",
+                "temperament": "se"
+            },
+            "s": {
+                "desc": "An Emotional Letter",
+                "first_letter": "is a letter that encourages ambition",
+                "temperament": "ce"
+            },
+            "t": {
+                "desc": "An Emotional Letter",
+                "first_letter": "is a letter that encourages trust",
+                "temperament": "ce"
+            },
+            "u": {
+                "desc": "An Intuition Letter",
+                "first_letter": "is a letter that encourages sociability",
+                "first_vowel": "means that your emotional reactions are full of affection and sentimentalism.",
+                "temperament": "ci"
+            },
+            "v": {
+                "desc": "An Intuition Letter",
+                "first_letter": "is a letter that encourages all kinds of achievements",
+                "temperament": "fi"
+            },
+            "w": {
+                "desc": "A Physical Letter",
+                "first_letter": "is a letter that encourages intellectual mobility",
+                "temperament": "cp"
+            },
+            "x": {
+                "desc": "An Emotional Letter",
+                "first_letter": "is a letter that encourages personal magnetism",
+                "temperament": "ce"
+            },
+            "y": {
+                "desc": "An Intuition Letter",
+                "first_letter": "is a letter that encourages intuition",
+                "first_vowel": "means that you are emotionally undecided, but you posses a very good intuition.",
+                "temperament": "ci"
+            },
+            "z": {
+                "desc": "An Emotional Letter",
+                "first_letter": "is a letter that encourages strength",
+                "temperament": "se"
+            },
+            "temperament_indices": {
+                "s": 1,
+                "c": 2,
+                "f": 3,
+                "m": 1,
+                "p": 2,
+                "e": 3,
+                "i": 4
+            }
+        }
+    }
+}
